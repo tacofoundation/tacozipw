@@ -291,5 +291,4 @@ TacozipError (base)
 
 **Advanced topics:**
 - [TACO Header Format](header.md) - Technical specification
-- [Building from Source](building.md) - Custom builds
 - [FAQ](faq.md) - Common questions and troubleshooting

@@ -4,7 +4,7 @@
 
 This document provides the complete technical specification of the TACO Header structure. It covers byte-level layout, serialization algorithms, update mechanisms, and implementation patterns.
 
-**Prerequisites**: Familiarity with basic tacozip concepts from [Overview](tacozip.md). For practical usage examples, see [Getting Started](getting-started.md).
+**Prerequisites**: Familiarity with basic tacozip concepts from [Overview](overview.md). For practical usage examples, see [Getting Started](getting-started.md).
 
 ## Header structure
 
@@ -430,5 +430,3 @@ Python equivalents in `clients/python/tacozip/config.py`.
 - `tacozip.read_header()` - Python wrapper
 - `TacoMetaArray` - ctypes structure definition
 - See [Python API Reference](python-api.md) for details
-
-

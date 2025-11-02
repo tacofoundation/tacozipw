@@ -310,5 +310,4 @@ Consistent patterns across layers:
 - Study [TACO Header Format](header.md) for specification details
 
 **For contributors:**
-- See [Building from Source](building.md) for development setup
-- Review [Contributing Guidelines](contributing.md) for code standards
+- Review [Contributing Guidelines](CONTRIBUTING.md) for code standards
