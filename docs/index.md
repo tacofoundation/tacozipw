@@ -10,9 +10,6 @@ hero:
       text: What is tacozip?
       link: en/python/tacozip
     - theme: alt
-      text: Specification
-      link: /en/specification/tacozip-specification
-    - theme: alt
       text: GitHub
       link: https://github.com/tacofoundation/tacozip
   image:
