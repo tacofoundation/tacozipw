@@ -428,5 +428,5 @@ Python equivalents in `clients/python/tacozip/config.py`.
 
 **Python bindings:**
 - `tacozip.read_header()` - Python wrapper
-- `TacoMetaArray` - ctypes structure definition
-- See [Python API Reference](python-api.md) for details
+- `TacoMetaArray` - ctypes structure definition.
+- See [Python API Reference](python-api-reference.md) for details.

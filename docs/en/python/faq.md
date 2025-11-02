@@ -345,7 +345,7 @@ with ThreadPoolExecutor(max_workers=4) as executor:
 
 ### How do I contribute to tacozip?
 
-See [Contributing Guidelines](contributing.md) for:
+See [Contributing Guidelines](CONTRIBUTING.md) for:
 - Code style requirements
 - Testing requirements
 - PR process
