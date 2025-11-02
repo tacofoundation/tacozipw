@@ -21,7 +21,7 @@ export default defineConfig({
       }
     },
     editLink: {
-      pattern: 'https://github.com/tacofoundation/tacozipw/main/docs/:path',
+      pattern: 'https://github.com/tacofoundation/tacozipw/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     },
     socialLinks: [

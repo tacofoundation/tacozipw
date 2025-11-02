@@ -25,7 +25,6 @@ features:
   - icon: 🗂️
     title: 100% ZIP Compatible
     details: Open with WinZip, 7-Zip, or any standard tool. The TACO Header transparently appears as a regular file - full ecosystem compatibility.
-    link: /en/specification/tacozip
   - icon: ☁️
     title: Cloud-Native Design
     details: Single 165-byte read gets all metadata. Perfect for S3, Azure, HTTP CDN - access specific chunks (e.g., Parquet row groups) without downloading entire archives.
