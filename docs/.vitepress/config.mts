@@ -5,7 +5,7 @@ const require = createRequire(import.meta.url)
 const pkg = require('vitepress/package.json')
 
 export default defineConfig({
-  base: '/tacozip/',
+  base: '/tacozipw/',
   title: 'tacozip',
   lang: 'en-US',
 
@@ -21,7 +21,7 @@ export default defineConfig({
       }
     },
     editLink: {
-      pattern: 'https://github.com/tacofoundation/tacozip/main/docs/:path',
+      pattern: 'https://github.com/tacofoundation/tacozipw/main/docs/:path',
       text: 'Edit this page on GitHub'
     },
     socialLinks: [
