@@ -4,7 +4,7 @@
 
 The Python client provides a high-level interface to tacozip with Pythonic conventions and integration with the Python ecosystem. This document covers Python-specific features, data types, and usage patterns.
 
-For basic usage examples, see [Getting Started](getting-started.md). For C library details, see [C API Reference](c-api.md).
+For basic usage examples, see [Getting Started](getting-started.md). For C library details, see [C API Reference](#).
 
 ## Installation
 

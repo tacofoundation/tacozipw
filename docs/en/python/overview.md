@@ -306,7 +306,7 @@ Consistent patterns across layers:
 - See [Use Cases](use-cases.md) for real-world examples
 
 **For C developers:**
-- Read [C API Reference](c-api.md) for native library details
+- Read [C API Reference](#) for native library details
 - Study [TACO Header Format](header.md) for specification details
 
 **For contributors:**
