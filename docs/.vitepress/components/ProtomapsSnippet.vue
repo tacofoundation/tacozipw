@@ -5,9 +5,9 @@
           <h2 class="big-title">Quick Start</h2>
           <p>See tacozip API in action:</p>
           <ul>
-            <li>Archive large files (like Parquet or data.bin) with custom metadata. <a href="./en/python/quick-start-examples.html" class="arrow-link"><span class="arrow">→</span></a></li>
-            <li>Define byte-range "entries" (e.g., Row Groups) in the header. <a href="./en/taco-header-format.html" class="arrow-link"><span class="arrow">→</span></a></li>
-            <li>Read metadata back instantly using <code>read_header()</code>. <a href="./en/python/api-reference.html#read_header" class="arrow-link"><span class="arrow">→</span></a></li>
+            <li>Archive large files (like Parquet or data.bin) with custom metadata. <a href="./en/python/getting-started.html" class="arrow-link"><span class="arrow">→</span></a></li>
+            <li>Define byte-range "entries" (e.g., Row Groups) in the header. <a href="./en/python/header.html#entry-semantics" class="arrow-link"><span class="arrow">→</span></a></li>
+            <li>Read metadata back instantly using <code>read_header()</code>. <a href="./en/python/python-api-reference.html#read-header" class="arrow-link"><span class="arrow">→</span></a></li>
           </ul>
         </div>
         

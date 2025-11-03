@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: What is tacozip?
-      link: en/python/tacozip
+      link: en/python/overview.html#what-is-tacozip
     - theme: alt
       text: GitHub
       link: https://github.com/tacofoundation/tacozip
